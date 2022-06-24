@@ -11,7 +11,7 @@ The data is provided in XML-format, following the formatdescribed by "GermEval T
 
 ## Licence and Usage
 
-This data is distributed under the CC-BY 4.0 license.
+This data is distributed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 Send pull requests to submit annotation amendments.
 
