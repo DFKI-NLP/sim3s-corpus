@@ -7,7 +7,7 @@ The data can be used for as a training or test corpus for aspect-oriented sentim
 Moreover, the corpus can benefit building inclusive public transportation systems. 
 
 ## Format 
-The data is provided in XML-format, following the formatdescribed by "GermEval Task 2017 - Shared Task on Aspect-based Sentiment in Social 
+The data is provided in XML-format, following the format described by "GermEval Task 2017 - Shared Task on Aspect-based Sentiment in Social 
 
 ## Licence and Usage
 
