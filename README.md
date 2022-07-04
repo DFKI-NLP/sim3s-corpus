@@ -29,7 +29,7 @@ Please cite the following publication:
   publisher      = {European Language Resources Association},
   pages     = {35--39},
   abstract  = {In this paper we show how aspect-based sentiment analysis might help public transport companies to improve their social responsibility for accessible travel. We present MobASA: a novel German-language corpus of tweets annotated with their relevance for public transportation, and with sentiment towards aspects related to barrier-free travel. We identified and labeled topics important for passengers limited in their mobility due to disability, age, or when travelling with young children. The data can be used to identify hurdles and improve travel planning for vulnerable passengers, as well as to monitor a perception of transportation businesses regarding the social inclusion of all passengers. The data is publicly available under: https://github.com/DFKI-NLP/sim3s-corpus},
-  url       = {https://aclanthology.org/2022.csrnlp1-1.5}
+  url       = {http://www.lrec-conf.org/proceedings/lrec2022/workshops/CSRNLP1/pdf/2022.csrnlp1-1.5.pdf}
 }
 ```
 
